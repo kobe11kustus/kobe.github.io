@@ -1,4 +1,4 @@
-# kobe.github.io
+# Electrical Engineering
 
 ### Education
 MSc Electrical Engineering
